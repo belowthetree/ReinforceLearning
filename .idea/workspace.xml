@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48158dd4-b1ec-40ed-9511-a416c4200926" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VkobWEK7gBUBw6NO4mvARMFE3p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DQLearing" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\代码\AI\ReinforceLearning\DQLearing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\代码\AI\ReinforceLearning\DQLearing\Brains" />
+      <recent name="F:\代码\AI\ReinforceLearning\DQLearing\tkinter" />
+      <recent name="F:\代码\AI\ReinforceLearning\QTable" />
+      <recent name="F:\代码\AI\ReinforceLearning\DQLearing" />
+      <recent name="F:\代码\AI\ReinforceLearning\走迷宫" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.CartPole">
+    <configuration name="CartPole" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ReinforceLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DQLearing/gym" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DQLearing/gym/CartPole.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RunQTable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ReinforceLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\代码\AI\ReinforceLearning\走迷宫\RunQTable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RunQTable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ReinforceLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/走迷宫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\代码\AI\ReinforceLearning\走迷宫\RunQTable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RunSarsaTable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ReinforceLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/走迷宫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/走迷宫/RunSarsaTable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_dqn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ReinforceLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DQLearing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DQLearing/run_dqn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ReinforceLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/五子棋" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/五子棋/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CartPole" />
+        <item itemvalue="Python.run_dqn" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.RunSarsaTable" />
+        <item itemvalue="Python.RunQTable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48158dd4-b1ec-40ed-9511-a416c4200926" name="Default Changelist" comment="" />
+      <created>1577806526676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577806526676</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Inspections" timestamp="1577806825632">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1577806825632" />
+    <state x="472" y="47" key="#Train_(1)" timestamp="1578134329404">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="472" y="47" key="#Train_(1)/0.0.1536.864@0.0.1536.864" timestamp="1578134329404" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578152948655">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1578152948655" />
+    <state x="182" y="276" key="FileChooserDialogImpl" timestamp="1578194444428">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="182" y="276" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578194444428" />
+    <state width="637" height="700" key="GridCell.Tab.0.bottom" timestamp="1578280645315">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="637" height="700" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578280645315" />
+    <state width="637" height="700" key="GridCell.Tab.0.center" timestamp="1578280645314">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="637" height="700" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578280645314" />
+    <state width="637" height="700" key="GridCell.Tab.0.left" timestamp="1578280645314">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="637" height="700" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578280645314" />
+    <state width="637" height="700" key="GridCell.Tab.0.right" timestamp="1578280645314">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="637" height="700" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578280645314" />
+    <state width="1493" height="254" key="GridCell.Tab.1.bottom" timestamp="1578238660266">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578238660266" />
+    <state width="1493" height="254" key="GridCell.Tab.1.center" timestamp="1578238660266">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1578238660266" />
+    <state width="1493" height="254" key="GridCell.Tab.1.left" timestamp="1578238660266">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1578238660266" />
+    <state width="1493" height="254" key="GridCell.Tab.1.right" timestamp="1578238660266">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1578238660266" />
+    <state x="162" y="61" key="SettingsEditor" timestamp="1578230918005">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="162" y="61" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578230918005" />
+    <state x="430" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1577806545648">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="430" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1577806545648" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1578226298515">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578226298515" />
+  </component>
+</project>
