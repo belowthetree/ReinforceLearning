@@ -17,6 +17,7 @@ print(env.observation_space)
 print(env.observation_space.high)
 print(env.observation_space.low)
 
+
 RL = DeepQNet(n_actions=env.action_space.n,
               n_features=env.observation_space.shape[0],
               learning_rate=0.01,
