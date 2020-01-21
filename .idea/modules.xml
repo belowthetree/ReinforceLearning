@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ReinforceLearning.iml" filepath="$PROJECT_DIR$/.idea/ReinforceLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../paddle/.idea/paddle.iml" filepath="$PROJECT_DIR$/../paddle/.idea/paddle.iml" />
     </modules>
   </component>
 </project>
