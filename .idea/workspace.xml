@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48158dd4-b1ec-40ed-9511-a416c4200926" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Actor_Critic/AC_Pole.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actor_Critic/AC_continue_Pendulum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDPG/DDPG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DQLearing/Brains/DQNTF2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DQLearing/Brains/DuelingDQN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DQLearing/gym/Pendulum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolicyGradient/Brain/PG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolicyGradient/Brain/PolicyGradient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolicyGradient/gym/PGCartPole.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ReinforceLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ReinforceLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DQLearing/Brains/DQN.py" beforeDir="false" afterPath="$PROJECT_DIR$/DQLearing/Brains/DQN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQLearing/Brains/Priority_DQN.py" beforeDir="false" afterPath="$PROJECT_DIR$/DQLearing/Brains/Priority_DQN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DQLearing/gym/CartPole.py" beforeDir="false" afterPath="$PROJECT_DIR$/DQLearing/gym/CartPole.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,73 +194,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="91" key="#Inspections" timestamp="1577806825632">
+    <state x="300" y="76" key="SettingsEditor" timestamp="1592207857239">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="91" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1577806825632" />
-    <state x="361" y="91" key="#Notifications" timestamp="1579446428195">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="361" y="91" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1579446428195" />
-    <state x="472" y="47" key="#Train_(1)" timestamp="1578134329404">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="472" y="47" key="#Train_(1)/0.0.1536.864@0.0.1536.864" timestamp="1578134329404" />
-    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578152948655">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1578152948655" />
-    <state x="182" y="276" key="FileChooserDialogImpl" timestamp="1579435501339">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="182" y="276" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1579435501339" />
-    <state width="462" height="700" key="GridCell.Tab.0.bottom" timestamp="1579547713478">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="462" height="700" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579547713478" />
-    <state width="462" height="700" key="GridCell.Tab.0.center" timestamp="1579547713478">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="462" height="700" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579547713478" />
-    <state width="462" height="700" key="GridCell.Tab.0.left" timestamp="1579547713478">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="462" height="700" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579547713478" />
-    <state width="462" height="700" key="GridCell.Tab.0.right" timestamp="1579547713478">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="462" height="700" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579547713478" />
-    <state width="1493" height="254" key="GridCell.Tab.1.bottom" timestamp="1578238660266">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="254" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578238660266" />
-    <state width="1493" height="254" key="GridCell.Tab.1.center" timestamp="1578238660266">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="254" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1578238660266" />
-    <state width="1493" height="254" key="GridCell.Tab.1.left" timestamp="1578238660266">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="254" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1578238660266" />
-    <state width="1493" height="254" key="GridCell.Tab.1.right" timestamp="1578238660266">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="254" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1578238660266" />
-    <state x="162" y="61" key="SettingsEditor" timestamp="1579495398527">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="162" y="61" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1579495398527" />
-    <state x="430" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1577806545648">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="430" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1577806545648" />
-    <state x="410" y="158" width="700" height="530" key="recent.locations.popup" timestamp="1579540539099">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="410" y="158" width="700" height="530" key="recent.locations.popup/0.0.1536.864@0.0.1536.864" timestamp="1579540539099" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1579542347913">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1579542347913" />
+    <state x="300" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1592207857239" />
   </component>
 </project>

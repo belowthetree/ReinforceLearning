@@ -85,7 +85,7 @@ class DeepQNet():
         else:
             sample_index = np.random.choice(self.memory_counter, size=self.batch_size)
         batch_memory = self.memory[sample_index, :]
-        # q_next 用旧网络预测，q_eval，q_target 用新网络；同时预测记忆中的情形
+        # q_next 用旧网络、动作后的环境预测，q_eval，q_target 用新网络、动作前的环境；同时预测记忆中的情形
         q_next, q_eval = self.target_net(torch.Tensor(batch_memory[:, -self.n_features:])).detach().numpy(), \
                          self.eval_net(torch.Tensor(batch_memory[:, :self.n_features])).detach().numpy()
         q_target = q_eval#np.zeros((len(sample_index), self.n_actions))
@@ -93,7 +93,7 @@ class DeepQNet():
         batch_index = np.arange(self.batch_size, dtype=np.int32)
         eval_act_index = batch_memory[:, self.n_features].astype(int)
         reward = batch_memory[:, self.n_features + 1]
-        # 旧网络中的最高价值与新网络对应动作相减得到损失
+        # 每次学习都用下一个状态的动作结合反馈作为当前动作值（这样，将未来状态的动作作为目标，有一定前瞻性）
         q_target[batch_index, eval_act_index] = reward + self.gamma * np.max(q_next, axis=1)
         loss = self.loss_fn(self.eval_net(torch.Tensor(batch_memory[:, :self.n_features])), torch.Tensor(q_target))
         self.optimizer.zero_grad()
